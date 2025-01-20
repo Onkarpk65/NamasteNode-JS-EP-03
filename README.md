@@ -43,7 +43,7 @@
 # Important Note:
 ----------------------------------------------------------------
 
-- When i used *console.log(this)*; at the global level in Node.js, it will *log* an **empty object,** 
+- When i used *console.log(this)*; at the global level in Node.js, it *logged* an **empty object,** **{ }**
 indicating that *this* does not refer to the global object in this context.
 
 **Global this**
